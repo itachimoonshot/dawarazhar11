@@ -1,6 +1,4 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Dawar%20Azhar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Python%20Engineer%20%7C%20AI%20Agent%20Architect%20%7C%20API%20Developer&descSize=16&descAlignY=55" width="100%" />
 
 *I design APIs, architect multi-agent systems, and deploy production automation — not wrappers, not prototypes.*
 
