@@ -289,7 +289,7 @@ graph LR
 
 **AI Engineering · Python Development · Automation · Data Engineering**
 
-95+ repos · 364+ stars · 7+ years shipping production systems · MS Manufacturing Engineering (UET Lahore)
+95+ repos · 364+ stars · 7+ years shipping production systems 
 
 <br/>
 
